@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { DragDropContext, DropResult } from 'react-beautiful-dnd';
+import { DragDropContext, DropResult } from '@hello-pangea/dnd';
 import { Box, Button, TextField, Paper, Dialog, DialogTitle, DialogContent, DialogActions, IconButton, Tooltip, Typography, alpha, Menu, MenuItem, InputAdornment, Divider, Badge } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
 import SearchIcon from '@mui/icons-material/Search';
